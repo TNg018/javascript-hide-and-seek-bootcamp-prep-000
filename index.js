@@ -16,3 +16,7 @@ document.getElementById('app').querySelectorAll('ul.ranked-list li')
     return String()
   }
 }
+
+function deepestChild() {
+  const deepestChild = document.querySelector('div.grand-node div)
+}
