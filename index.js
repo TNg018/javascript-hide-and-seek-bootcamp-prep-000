@@ -18,5 +18,5 @@ document.getElementById('app').querySelectorAll('ul.ranked-list li')
 }
 
 function deepestChild() {
-  const div4 = document.querySelector('div.grand-node div4')
+  const div4 = document.querySelector('div.grand-node div div div div')
 }
