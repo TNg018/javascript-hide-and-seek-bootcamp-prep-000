@@ -17,5 +17,5 @@ var ranks = document.querySelectorAll('ul.ranked-list li')
 
 function deepestChild() {
   var deepestChild = document.getElementById('grand-node').querySelectorAll('div')
-  return [deepestChild.length - 1]
+  return deepestChild[deepestChild.length - 1]
 }
